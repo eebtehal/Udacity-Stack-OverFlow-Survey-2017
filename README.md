@@ -24,5 +24,5 @@ There is 1 notebook available here to showcase work related to the above questio
 # Results
 The main findings of the code can be found at the post available [here](https://medium.com/@eebtehal.101/stackoverflow-survey-2017-4c6ddbc1e34a).
 
-# Licensing, Authors, Acknowledgements
+# License
 Must give credit to Stack Overflow for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/stackoverflow/so-survey-2017/data).
