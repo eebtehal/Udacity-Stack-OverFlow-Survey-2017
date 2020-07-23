@@ -2,7 +2,7 @@
 I have used data from StackOverflow 2017 Annual Developers Survey, to get a closer look at the questions. This survey conducted on many developers and contains over 64,000 reviews, from all over the world.
 
 # Installation
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
+There should be no libraries necessary to run the code here after anaconda is distributed to Python. The code should work without problems using Python versions 3.
 # Project Motivation
 For this project, I was interestested in using Stack Overflow data from 2017 to better understand:
 
