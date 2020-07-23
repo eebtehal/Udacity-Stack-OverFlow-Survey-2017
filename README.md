@@ -22,7 +22,7 @@ For this project, I was interestested in using Stack Overflow data from 2017 to 
 There is 1 notebook available here to showcase work related to the above questions. The notebook is exploratory in searching through the data pertaining to the questions.
 
 # Results
-The main findings of the code can be found at the post available [here](https://www.kaggle.com/stackoverflow/so-survey-2017/data).
+The main findings of the code can be found at the post available [here](https://medium.com/@eebtehal.101/stackoverflow-survey-2017-4c6ddbc1e34a).
 
 # Licensing, Authors, Acknowledgements
 Must give credit to Stack Overflow for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/stackoverflow/so-survey-2017/data).
