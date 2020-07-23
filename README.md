@@ -17,7 +17,7 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
     * <span style='color:darkslategray'> HaveWorkedLanguage vs Salary
    
 # File Descriptions
-There is 1 notebook available here to showcase work related to the above questions. The notebook is exploratory in searching through the data pertaining to the questions. Markdown cells were used to assist in walking through the thought process for individual steps.
+There is 1 notebook available here to showcase work related to the above questions. The notebook is exploratory in searching through the data pertaining to the questions.
 
 # Results
 The main findings of the code can be found at the post available [here](https://www.kaggle.com/stackoverflow/so-survey-2017/data).
