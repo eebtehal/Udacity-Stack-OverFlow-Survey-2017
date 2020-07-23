@@ -4,6 +4,8 @@ I have used data from StackOverflow 2017 Annual Developers Survey, to get a clos
 # Installation
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
 # Project Motivation
+For this project, I was interestested in using Stack Overflow data from 2017 to better understand:
+
 * <span style='color:darkslategray'> **Does Job Satisfaction affected by salary and the service period in the company ?**
     * <span style='color:darkslategray'> JobSeekingStatus vs JobSatisfaction.
     * <span style='color:darkslategray'> LastNewJob vs JobSatisfaction.
