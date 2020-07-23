@@ -1,5 +1,6 @@
-# Udacity-Stack-OverFlow-Survey-2017
-..................................................................
+# StackOverFlow-Survey-2017
+I have used data from StackOverflow 2017 Annual Developers Survey, to get a closer look at the questions. This survey conducted on many developers and contains over 64,000 reviews, from all over the world.
+
 # Installation
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
 # Project Motivation
@@ -14,6 +15,7 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
     * <span style='color:darkslategray'> FormalEducation vs Salary.
 * <span style='color:darkslategray'> **Does knowing more languages ​​will guarantee increase in salary?**
     * <span style='color:darkslategray'> HaveWorkedLanguage vs Salary
+   
 # File Descriptions
 There is 1 notebook available here to showcase work related to the above questions. The notebook is exploratory in searching through the data pertaining to the questions. Markdown cells were used to assist in walking through the thought process for individual steps.
 
